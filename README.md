@@ -1,7 +1,10 @@
-# BERTIGNAC GAMING STORE V5 — HERO FIXED
+# BERTIGNAC GAMING STORE V6 — REAL HERO FIX
 
-Ready for GitHub Pages.
+This version fixes the actual problem visible in the screenshot:
+the hero image no longer contains enlarged product-card UI.
 
-This version restores the proper full BERTIGNAC gaming setup in the hero instead of enlarging individual product images. The six product cards remain clean and the desktop grid is wider and balanced.
+The hero is now a clean BERTIGNAC gaming setup image (monitor, PC, keyboard,
+mouse and headset), while product cards exist only in the Best Sellers section.
 
-Upload every file inside this ZIP directly to the root of `bertignac-store`, replacing the previous version.
+Ready for GitHub Pages. Replace ALL old repository files with the contents of
+this ZIP.
