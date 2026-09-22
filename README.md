@@ -1,13 +1,7 @@
-# BERTIGNAC GAMING STORE V4 FIXED
+# BERTIGNAC GAMING STORE V5 — HERO FIXED
 
-Final static GitHub Pages package.
+Ready for GitHub Pages.
 
-Fixes:
-- Clean product image presentation
-- Corrected malformed monitor image markup
-- Improved spacing and image alignment
-- Sticky navigation no longer crowds anchored sections
-- All images are local files in the ZIP
-- No npm/build step required
+This version restores the proper full BERTIGNAC gaming setup in the hero instead of enlarging individual product images. The six product cards remain clean and the desktop grid is wider and balanced.
 
-Upload the CONTENTS of this ZIP directly to the root of `bertignac-store`.
+Upload every file inside this ZIP directly to the root of `bertignac-store`, replacing the previous version.
