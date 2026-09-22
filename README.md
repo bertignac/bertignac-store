@@ -1,7 +1,13 @@
-# BERTIGNAC GAMING STORE V3
+# BERTIGNAC GAMING STORE V4 FIXED
 
-GitHub Pages ready.
+Final static GitHub Pages package.
 
-This version keeps the V2 website and replaces the product imagery with the cleaner BERTIGNAC gaming visual style: PC, monitor, RGB keyboard, gaming mouse, headset and controller.
+Fixes:
+- Clean product image presentation
+- Corrected malformed monitor image markup
+- Improved spacing and image alignment
+- Sticky navigation no longer crowds anchored sections
+- All images are local files in the ZIP
+- No npm/build step required
 
-Upload all files directly to the root of `bertignac-store`.
+Upload the CONTENTS of this ZIP directly to the root of `bertignac-store`.
