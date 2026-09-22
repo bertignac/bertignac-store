@@ -1,14 +1,7 @@
-# BERTIGNAC GAMING STORE V2 FINAL
+# BERTIGNAC GAMING STORE V3
 
-Ready for GitHub Pages.
+GitHub Pages ready.
 
-Improvements:
-- Clean product photos without duplicated names/prices/buttons inside the images
-- Larger, balanced 3-column desktop product grid
-- Consistent product image sizes
-- Better spacing and alignment
-- Hero typography adjusted so PLAY HARDER displays cleanly
-- Responsive mobile/tablet layout
-- Functional Add to Bag counter
+This version keeps the V2 website and replaces the product imagery with the cleaner BERTIGNAC gaming visual style: PC, monitor, RGB keyboard, gaming mouse, headset and controller.
 
-Upload every file from this folder directly to the root of `bertignac-store`.
+Upload all files directly to the root of `bertignac-store`.
